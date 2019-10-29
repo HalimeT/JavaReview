@@ -13,7 +13,9 @@ public class PrimeOrNot {
 		}else{
 			flag=false;
 		}
-		}System.out.println(flag);
+		
+		}
+		System.out.println(flag);
 	}
 
 }

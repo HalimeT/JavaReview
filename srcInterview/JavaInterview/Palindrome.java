@@ -5,7 +5,7 @@ public class Palindrome {
 	
 	public static void main(String[] args) {
 		
-		String str="Hanah";
+		String str="Hanas";
 		String rev="";
 		for (int i=str.length()-1; i>=0; i--) {
 			rev=rev+str.charAt(i);
